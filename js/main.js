@@ -401,7 +401,6 @@ const razones = [
     "Lo bien que nos reímos juntos, incluso de tonterías.",
     "Que me corrijas cuando digo tortitas (son crepes, ya lo sé).",
     "Que mantengas viva la racha… y la otra llama también.",
-    "Que sobrevivimos al «exilio» a Francia a base de FaceTime.",
     "Que seas mi Dictadora favorita 😉",
     "Que cada plan contigo, por pequeño que sea, se convierte en lo mejor del día."
 ];
