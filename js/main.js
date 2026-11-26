@@ -396,14 +396,14 @@ const razones = [
     "Tu sonrisa, que es la culpable de la mía.",
     "Que contigo puedo ser yo, sin disimular nada.",
     "Cómo me haces sentir: querido, cuidado y protegido.",
-    "Que me pidas abrazos como si fueran lo más normal del mundo.",
+    "Que me pidas abrazos, besos y mimos.",
     "Que cada «te echo de menos» tuyo me alegre el día entero.",
     "Lo bien que nos reímos juntos, incluso de tonterías.",
     "Que me corrijas cuando digo tortitas (son crepes, ya lo sé).",
     "Que mantengas viva la racha… y la otra llama también.",
     "Que sobrevivimos al «exilio» a Francia a base de FaceTime.",
     "Que seas mi Dictadora favorita 😉",
-    "Que cada plan contigo, por pequeño que sea, se convierte en el mejor del día."
+    "Que cada plan contigo, por pequeño que sea, se convierte en lo mejor del día."
 ];
 
 function setupRazones() {
